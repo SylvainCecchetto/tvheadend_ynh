@@ -1,6 +1,6 @@
 # Tvheadend debs files
 
-Doozer server seems to be broken sometimes, so you can files Tvheadend debs files here.
+Doozer server seems to be broken sometimes, so you can find Tvheadend debs files here.
 
 ## Sources
 
