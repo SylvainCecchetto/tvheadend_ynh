@@ -5,6 +5,10 @@ Doozer server seems to be broken sometimes, so you can find Tvheadend debs files
 ## Sources
 
 
+* 4.2.8-36
+    * https://doozer.io/artifact/rk0bzgqtit/tvheadend_4.2.8-36~g5bdcfd8ac~stretch_amd64.deb
+    * https://doozer.io/artifact/g3kzrs6yfg/tvheadend_4.2.8-36~g5bdcfd8ac~raspbianstretch_armhf.deb
+
 * 4.2.8-35
     * https://doozer.io/artifact/tzl6yq16xd/tvheadend_4.2.8-35~gcfa450ed1~stretch_amd64.deb
     * https://doozer.io/artifact/rz5cw6qk04/tvheadend_4.2.8-35~gcfa450ed1~stretch_i386.deb
